@@ -1,0 +1,6 @@
+github.com/headfirstgo/datafile v0.0.0-20190307063009-c40c587e7269 h1:c2qtZSYiBgLXZ4LGXCW0JxRb611oiks+ZFaNUA8J8gw=
+github.com/headfirstgo/datafile v0.0.0-20190307063009-c40c587e7269/go.mod h1:7VyRGcmFIiTsEPOobZkJpgOGYYYUw4QaP+81tb48q9M=
+github.com/lazycruise-sys/greeting v0.0.0-20210825075226-d3c7122aca56 h1:amx5QJ9Gr1uPAKk5bANH+9vF/RLqB6IJDoZUp/GWTtU=
+github.com/lazycruise-sys/greeting v0.0.0-20210825075226-d3c7122aca56/go.mod h1:PI+XzMSgxeQUukVnb/hj8puk2kiTUwaX+XShGyrnXVc=
+github.com/lazycruise-sys/keyboard v0.0.0-20210825072516-c04c7ba4f332 h1:cu/+11gmvpKRdfHDl2aIW35tO8awmOOKxPSppx/Q4a0=
+github.com/lazycruise-sys/keyboard v0.0.0-20210825072516-c04c7ba4f332/go.mod h1:jhnXCmEmwbztbdR6bSA0pgbyQnuPrK6AFtVglyX+YVQ=

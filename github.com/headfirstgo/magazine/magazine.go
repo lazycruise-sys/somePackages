@@ -4,13 +4,14 @@ type Subscriber struct {
 	Name        string
 	Rate        float64
 	Active      bool
-	HomeAddress Address
+	Address
 }
 
 type Employee struct {
 	Name        string
 	Salary      float64
-	HomeAddress Address
+	Address
+	History
 }
 
 type Address struct {
@@ -18,4 +19,9 @@ type Address struct {
 	City       string
 	State      string
 	PostalCode string
+}
+
+type History struct {
+	School string
+	Work string
 }

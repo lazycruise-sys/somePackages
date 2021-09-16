@@ -60,4 +60,10 @@ func main() {
 	// second employee to test knowledge
 	employee2 := magazine.Employee{Name: "jacob arigbede", Salary: 123000, Address: magazine.Address{Street: "102 MFM Main One Zone", City: "Majodo", State: "lagos", PostalCode: "22001"}, History: magazine.History{School: "OAU", Work: "Turing"}}
 	fmt.Println(employee2)
+
+	// printing embedded structs
+	jacobState := employee2.State
+	jacobSchool := employee2.School
+	fmt.Println("State and School: ", jacobState, jacobSchool)
+
 }
